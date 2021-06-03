@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of King Charles the martyr, parallel'd with our saviour in all his sufferings. Who was murdered (before His own palace at Whitehall) the 30th of Jan. 1648. With some observations upon his cruel and bloudy persecutors.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88128</idno><idno type="EEBO-CITATION">99865253</idno>
+  <idno type="VID">165339</idno>
+  <idno type="EEBO-PROQUEST">2240903919</idno>
+  
+            <idno type="STC">Wing L2001</idno>
+            <idno type="STC">Thomason E571_2</idno>
+            <idno type="STC">ESTC R206065</idno>
+            <idno type="PROQUEST">99865253</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865253e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of King Charles the martyr, parallel'd with our saviour in all his sufferings. Who was murdered (before His own palace at Whitehall) the 30th of Jan. 1648. With some observations upon his cruel and bloudy persecutors.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, M. DC. XLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165339:1"/>
+            <p>THE LIFE and DEATH OF KING CHARLES THE MARTYR, Parallel'd with our Saviour in all his Sufferings.</p>
+            <p>
+               <hi>Who was murdered (before His own Palace at</hi> Whitehall) <hi>the</hi> 30th <hi>of</hi> Jan. 1648.</p>
+            <p>With some Observations upon his cruel and bloudy Persecutors.</p>
+            <q>The wicked take counsel together against the Lord, and against his Anointed, <bibl>
+                  <hi>Psal. 2.2.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inted in the Year, M.DC.XLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165339:2"/>
+            <pb n="1" facs="tcp:165339:2"/>
+            <head>The life and death of King CHARLS the MARTYR.</head>
+            <p>THe Life, sufferings and death, of our (late) <hi>murdered King</hi> (who imitated his Saviour) is here briefly re<g ref="char:EOLhyphen"/>presented the view (especially) of those (his tray<g ref="char:EOLhyphen"/>terous Subjects) that dipt their hands in the spil<g ref="char:EOLhyphen"/>ling of his bloud.<note place="margin">Character of his life.</note>
+            </p>
+            <p>And first for his Life; the personall virtues, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>races of this pious <hi>Prince,</hi>
+               <note place="margin">His virtues and graces.</note> which made him both glorious in his <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fe and death, was his piety in Religion; His zeal and devout fre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uency in prayer; who propagated the true Protestant Religion in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s purity, and established it by his Laws and <hi>Regall</hi> Authority, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ealed it with his <hi>Royall bloud:</hi> He was the figure of God in the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ature of Government.</p>
+            <p>He was the <hi>Churches Champion,</hi> natures honour, and earths Maje<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y; the director of the Law, and strength of the same; the sword of <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ustice,</hi> and the Scepter of <hi>Mercy;</hi> he was not to be parallel'd, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ause he was without equality; and the prerogative of his <hi>Crown</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as not (in just waies) to be contradicted; As he was the Lords <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nointed,</hi>
+               <note place="margin">The Lords A<g ref="char:EOLhyphen"/>nointed.</note> therefore not to be touched: As he was the head of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ublique body; therefore to be preserved: As he was Gods Vice<g ref="char:EOLhyphen"/>gerent here on earth, within his dominions: And therefore by <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll <hi>Lawes,</hi> divine and humane, he was priviledg'd from any punish<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent that could be inflicted by men; albeit he was inferiour to Christ, as man is unto God; the creature,<note place="margin">His priviledge Christ not a temporall Prince.</note> unto the immortall Creator: yet was his priviledge of inviolability far more clear <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hen was Christ: for Christ was not a temporall <hi>Prince, his King<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ome was not of this world;</hi> and therefore when he vouchsafed to come <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nto the World, and to become the Son of man; he did subject him<g ref="char:EOLhyphen"/>self unto the Law;<note place="margin">Did subject himself to the Law.</note> and so soon as he was born, he enrolled him<g ref="char:EOLhyphen"/>self a Subject unto <hi>Caesar:</hi> he lived as a Subject, paid tribute unto <hi>Caesar;</hi>
+               <note place="margin">Paid tribute to <hi>Caesar.</hi>
+               </note> he submitted unto <hi>Pilates</hi> Jurisdiction,<note place="margin">
+                  <hi>Pilates</hi> juris<g ref="char:EOLhyphen"/>diction.</note> acknowledging that he had power given him from above.</p>
+            <p>But our gratious Soveraign was well known to be a temporall
+<pb n="2" facs="tcp:165339:3"/> Prince, a free Monarch;<note place="margin">Free Monarch</note> our undoubted Soveraign, to whom we di<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> allow, and had sworn Allegiance; and therefore he could not b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judged by any power on earth; he disclaimed their Authority, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> well he might; for they had no power at all over any, much lesse over him:<note place="margin">Pilats power:</note> And what power they usurped was not <hi>de super,</hi> as <hi>Pilats</hi> was; but <hi>de subter,</hi> as <hi>Bradshaws,</hi>
+               <note place="margin">Bradshaws:</note> from beneath, even from the Angel of the bottomlesse pit, whose name is <hi>Abaddon:</hi> For as he seeks the destruction of all men, so especially of <hi>KINGS,</hi> because by their Government,<note place="margin">Peace, Justice and Religion:</note> Peace is preserved, Justice executed, and Religion maintained. But from above they had no power; for <hi>God</hi> never gave unto the people power over their <hi>Kings,</hi> as is evident by Scri<g ref="char:EOLhyphen"/>pture, by the Law of Nature and Nations,<note place="margin">Law of Na<g ref="char:EOLhyphen"/>ture and Na<g ref="char:EOLhyphen"/>tions:</note> by the known Laws of <hi>England,</hi>
+               <note place="margin">Laws of Eng<g ref="char:EOLhyphen"/>land:</note> by clear and undeniable reasons, and by the constant do<g ref="char:EOLhyphen"/>ctrine of the true, ancient and Catholique Church; as were easy for me to shew, should I enlarge my self upon this subject.</p>
+            <p>
+               <note place="margin">His sufferings: Traitors and Tyrants: Judges and Murderers:</note>And yet these monstrous <hi>Traitors,</hi> and bloudy <hi>Tyrants,</hi> have sacri<g ref="char:EOLhyphen"/>legiously invaded <hi>Gods Throne,</hi> and usurped his Office, whose pecu<g ref="char:EOLhyphen"/>liar it is to be Judge of Kings; and so have presumed to try, judge, condemn and murder their <hi>lawfull King,</hi> in despight of Law, Rea<g ref="char:EOLhyphen"/>son, Religion Nature, and God himself. As it is in the parable of <hi>Jotham,</hi>
+               <note place="margin">Parable of Jotham:</note> they have advanced the <hi>Bramble</hi> above the <hi>Cedar of Leban<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>;</hi> while they set the people, even the basest of the people, on the Bench, and placed the King a Prisoner at the Bar.<note place="margin">The King Pri<g ref="char:EOLhyphen"/>soner at the Bar:</note> So they have overthrown the order of God and Nature, dissolved the bonds of humane society,<note place="margin">To the basest of His people</note> bringing a meer confusion and dissipation of all things.</p>
+            <p>Never such a Tragedy was acted by any Subjects in the Christian world, since the first constitution of Monarchy, as this unparallel'd mur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of our Soveraign Lord and K. (whom I may call) <hi>CHARLS THE JƲST.</hi>
+               <note place="margin">Charls the just Pilats know<g ref="char:EOLhyphen"/>ledge: John 19:15: Chief Priests:</note>
+               <hi>Pilate</hi> knew by the light of Nature, that a <hi>King</hi> is not to be put to death; therfore he said unto the <hi>Jews, Shall I crucifie your King?</hi> As if he had said, If Jesus be a King, he is not to be put to death. The chief Priests, as impudent and malicious as they were, did not deny the proposition, that a King is not to be put to death; but they denied the assumption, that Jesus was their King, (saying) <hi>We have no King but Cesar:</hi> But th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se Murderers are worse then the <hi>Jews,</hi>
+               <note place="margin">Worse then Jews or Pa<g ref="char:EOLhyphen"/>gans: Tully pleaded to Cesar for Diotarus:</note> for they confessed him to be their King, and yet most most barbarously judge, condemn and put him to death. And as they are worse then <hi>Jews,</hi> so they are worse then <hi>Pagans;</hi> for <hi>Tully</hi> plea<g ref="char:EOLhyphen"/>ding before <hi>Cesar</hi> for <hi>Diotarus</hi> King of <hi>Galatia,</hi> albeit he was but a tri<g ref="char:EOLhyphen"/>butary
+<pb n="3" facs="tcp:165339:3"/> King, yet he doth challenge that priviledge unto him, say<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g, <hi>For a King to be guilty of death, is such a thing as hath not been heard of; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ey are worse then Devils, for the Devils never rise up against their Prince.</hi>
+            </p>
+            <p>Here you see the inveterate and malicious rage of factious and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bellious Subjects against their King, who was the best of Kings:<note place="margin">The rage of his Enemies:</note>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ever was there yet any Prince that sate upon the Throne,<note place="margin">His piety and prudence:</note> who <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s beyond him for piety and prudence, for Heroicall and Chri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>an virtues. But here I dare not venture to praise him, lest com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing short, I may seem to wrong him; who was a Theme fitter <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r tongues of <hi>Angels then of Men.</hi>
+            </p>
+            <p>And therfore, as <hi>Apelles</hi> did, so will I, draw a veil over that which <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> am not able to expresse; and leave to all men to judge what he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as, by his <hi>Divine Meditations:</hi>
+               <note place="margin">His Divine Meditation:</note> That Book, or Golden Manuall; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll tell you what we have lost, having no superiour on earth.</p>
+            <p>As Christ was above the Law, being the Son of God; so he was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ove the censure of humane Laws, he being a King.<note place="margin">He imitateth o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Saviour:</note> As Christ was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ost innocent, there was no guil nor guilt found in him: so was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e innocent of all the crimes objected against him.<note place="margin">A King:</note> As he was a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing, he did represent Gods person here on earth: and as he was <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> good King (full of Grace) he was a most lively Image of Christ;<note place="margin">A parallel be<g ref="char:EOLhyphen"/>twixt King Charls and our Saviour:</note>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o lively an Image of him, that amongst all the Martyrs (who fol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>owed Christ unto heaven, bearing his Crosse) never was there a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y who expressed so great conformity with our Saviour in his suf<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erings, as he did.</p>
+            <p>Observe his patience, that the ten last years of his life,<note place="margin">The last ten years of his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e:</note>
+               <hi>He fought <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith Beasts, even with unreasonable men, who were resolved to be satisfied with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>othing, but with the utter destruction of Him and His Posterity.</hi>
+            </p>
+            <p>To bring that to passe, how did they asperse him with many foul <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd false calumnies against their own knowledge and Conscience,<note place="margin">Calumniated with false a<g ref="char:EOLhyphen"/>spersions:</note> only to render him odious unto his people? <hi>They slandered the foot<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>teeps of Gods Anointed; Their tongues and pens were sharper then swords, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iercing deep into his soul:</hi> Many scandalous Pamphlets were every day cast abroad, <hi>Which</hi> (as he saies in his Book) <hi>like sparks in great <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>onflagrations, did fly up and down, and set all places on fire:</hi> From every Pulpit was sounded a <hi>Trumpet of Rebellion;</hi> the <hi>Ambassadours of Peace</hi> being made the <hi>Heralds of War.</hi>
+            </p>
+            <p>And as our Saviour (by the Pharisees) was called, <hi>an Impostor,</hi>
+               <note place="margin">Our Saviour aspersed:</note>
+               <hi>a De<g ref="char:EOLhyphen"/>ceiver, a perverter of the people, a Blasphemer, a Samaritan, and one that had a Devil:</hi> so such language, and worse,<note place="margin">Our King vilified:</note> was bestowed upon <hi>His Sacred Ma<g ref="char:EOLhyphen"/>jesty</hi> by a <hi>Pharisaicall brood of Traitors,</hi> who are the great pretenders
+<pb n="4" facs="tcp:165339:4"/> to Religion,<note place="margin">Joh. 8.59.</note> but are utterly voyd of it: <hi>They have a shew of godlines<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> but have denied the power thereof.</hi>
+            </p>
+            <p>When our Saviour was at <hi>Jerusalem,</hi>
+               <note place="margin">Our Saviour at Jerusalem.</note> the Pharisees stirred up the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> people <hi>to stone him,</hi> whereupon <hi>he withdrew himself:</hi> So when the <hi>Ki<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> was at <hi>Westminster,</hi>
+               <note place="margin">The King at Westminster.</note> Tumults were raised, and Blasphemies cast o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> against Him, that He was forc'd to remove from thence: Then the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> cried out against Him, <hi>For deserting His Parliament,</hi>
+               <note place="margin">Forc'd from London.</note> though it wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the thing they most desired: Being thus forced to retire from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> they seized all His Houses and Furniture, Forts, Magazines Ships and Revenues;<note place="margin">Hunted like a Partridge.</note>
+               <hi>They hunted Him, like a Partridge, from mounta<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to mountain,</hi> that He might justly complain with our Saviour, <hi>Th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Foxes have holes, and the Birds of the air have nests, but Himself had n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> where to lay His head.</hi>
+            </p>
+            <p>When our Saviour had withdrawn himself from <hi>Jerusalem, The chief Priests and Pharisees gave commandment, that if any man knew where be were,</hi>
+               <note place="margin">An Ordinance making it treason to harbour the Kings Person.</note>
+               <hi>that he should shew it, that they might take him:</hi> So upon His Maje<g ref="char:EOLhyphen"/>sties flight, a cruel and bloudy Ordinance was made by these Mur<g ref="char:EOLhyphen"/>derers, <hi>That whosoever should harbour or conceal the Kings Person, or did know where He was harboured,</hi> unlesse he did immediatly reveal is, <hi>should forfeit his estate, and die without Mercy, as a Traitor.</hi>
+            </p>
+            <p>
+               <note place="margin">They disclai<g ref="char:EOLhyphen"/>med their King.</note>As our Saviour was rejected of his own people, <hi>He came unto his own, and they received him not:</hi> So was our Soveraign rejected by Hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own people, they would not own Him for their King, but disclai<g ref="char:EOLhyphen"/>med His Authority, and yeilded their service unto His Enemies: And as the <hi>Jews denied the Holy One,</hi>
+               <note place="margin">And desired the Parlia<g ref="char:EOLhyphen"/>ment to rule over them.</note>
+               <hi>and the Just, and desired a Murderer to be granted them;</hi> so they denied their holy and righteous King and desired the Parliament might rule over them. In this they preferred Robbers and Murderers, worse then <hi>Barabbas;</hi> chusing ra<g ref="char:EOLhyphen"/>ther to live in bondage, under this iron yoke, then to enjoy the liberty of Subjects, under the peaceable government of a most gra<g ref="char:EOLhyphen"/>cious King.</p>
+            <p>
+               <note place="margin">Our Saviour rejected of his Disciples. The King be<g ref="char:EOLhyphen"/>trayed and forsaken of His Servants. Deprived of Wife and Children.</note>As our Saviour was rejected by his own people, so was he forsa<g ref="char:EOLhyphen"/>ken of his own Disciples; that when <hi>he was to make his soul-offering for sin,</hi> then one of his Disciples betrayed him, another denied him, all forsook him, and <hi>left him to tread the Wine-presse alone:</hi> So when our Soveraign's afflictions grew great, some of His Servants be<g ref="char:EOLhyphen"/>trayed Him, like <hi>Judas;</hi> others denied Him, and almost all for<g ref="char:EOLhyphen"/>sook Him; He was forcibly deprived of the comfort of His dearest Wife, His most sweet and beloved Children. And as our Saviour was tempted: so was our Soveraign tempted to distrust, to perjury,
+<pb n="5" facs="tcp:165339:4"/> to Sacriledge, to Atheism, tempted to deny God,<note place="margin">The King tempted.</note> by forsaking His <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ligion, and destroying the Church, <hi>which His righteous soul abhorred.</hi>
+            </p>
+            <p>As the Devil made great proffers unto Christ, saying,<note place="margin">Promises to make Him a Glorious King.</note>
+               <hi>All these <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ngdoms will I give thee, if thou wilt fall down and worship me:</hi> So they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>omised to make our Soveraign a <hi>GLORIOƲS KING,</hi> if He <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uld submit to the Parliament, and worship the Idol which they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d set up: Besides, His Soul was daily tortured with unreasona<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Propositions, and insolent Demands, as absurd as those which <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Devil made unto Christ.</p>
+            <p>Our Saviours Enemies <hi>sought how they might take him by craft, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him to death:</hi> Such deceit was used to catch our Soveraign in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ir pit. As when Christ was at <hi>Jerusalem,</hi> the Pharisees, not da<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g to lay hands on him, because they feared the people, sought <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fright him with <hi>Herod,</hi> Saying to him, <hi>Get thee out, and depart hence, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Herod will kill thee;</hi> when they themselves intended to kill him: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> when His Majestie was at <hi>Hampton Court,</hi>
+               <note place="margin">The King at Hampton Court. Suggested with Fears.</note> His Enemies perceiving <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at the hearts of His People were so turned towards Him, that it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s not safe to lay violent hands on Him, they cunningly suggest <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rs unto Him, <hi>That there was a plot to kill Him;</hi>
+               <note place="margin">A Plot to kill Him.</note> and so they made <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m fly into the snare which they had laid for Him in the <hi>Isle of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ght,</hi>
+               <note place="margin">Flies to the Isle of Wight.</note> where they thought that <hi>Rolph</hi> should have dispatched Him <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poyson, or poyniard: but that being discovered, they resolved <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> do it in a more publique way.</p>
+            <p>Our Saviour was apprehended at night: so was our King, in a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>k cold Winter night, taken out of His Bed in the <hi>Isle of Wight,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> carried to <hi>Hurst</hi> Castle.<note place="margin">Carried to Hurst Castle.</note> They fought false witnesse against <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r Saviour: so did they against our Soveraign;<note place="margin">Proclamation made for all Witnesses a<g ref="char:EOLhyphen"/>gainst Him: Souldiers cri<g ref="char:EOLhyphen"/>ed Justice and Execution:</note> for open Procla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tion was made, with sound of Trump<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, <hi>That all who could inform <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>inst the King, should come unto the Painted Chamber, and give in their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dence.</hi> The people being suborned by the <hi>Priests,</hi> cried against <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r Saviour, <hi>Away with him, crucifie him:</hi> So some of the Souldiers <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re hired to cry against our Soveraign, <hi>Justice</hi> and <hi>Execution.</hi>
+            </p>
+            <p>Our Saviour was mocked: So our Soveraign had the triall of <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>el mockings.</hi> Christ was reviled:<note place="margin">Mocked and reviled:</note> so our Soveraign was reviled <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Enemies, especially, <hi>Hugh Peters.</hi> Our Saviour was spit up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>: so was our Soveraign; <hi>Bradshaw</hi> and <hi>Cook</hi>
+               <note place="margin">Bradshaw and Cook:</note> did spit out the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oth of their ulcerous lungs against Him to His face; and a barba<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>us Souldier did really spit in His Face.<note place="margin">A Souldier spit in his Face:</note> Our Saviour was bound: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> there was an intent to have bound our Soveraign, as Himself ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rved upon the Scaffold,<note place="margin">An intent to bind the King to the Scaffold Guarded night and day with Souldiers.</note> by the Rings that were fastened on the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ock.</p>
+            <pb n="6" facs="tcp:165339:5"/>
+            <p>Our Saviour was watched the night before he suffered; in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> morning sent to <hi>Pilat,</hi> from him to <hi>Herod,</hi> then back again to th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Common Judgment Hall,</hi> where he was condemned, and at the thir<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hour led forth to be crucified: But our Soveraign was watched ma<g ref="char:EOLhyphen"/>ny nights before he suffered; for all the time of his triall hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Chamber was fil'd with barbarous Souldiers, who deprived him o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his rest, and of all manner of privacy, which was more bitter t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> him then death.<note place="margin">The King suf<g ref="char:EOLhyphen"/>fered the 30 of Jan: at three in the after<g ref="char:EOLhyphen"/>noon, 1648.</note> At last, our Saviour suffered death: so did ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Soveraign, at the very same hour of the day; for our Saviour gav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> up the Ghost at the ninth hour, which is our three of the clock in the afternoon: the same hour put a period to our Soveraigns life, and to the happinesse of three Kingdoms.</p>
+            <p>Let us now see how he did bear this; even as his Saviour had done, <hi>who for the joy that was set before him, endured the crosse, despising the shame.</hi>
+            </p>
+            <p>
+               <note place="margin">He despised an earthly Crown for an immor<g ref="char:EOLhyphen"/>tall Crown.</note>He contemned an Earthly Crown, for the assured hope he had of an Immortall Crown, <hi>that fadeth not away:</hi> And so, like his Sa<g ref="char:EOLhyphen"/>viour, <hi>When he was reviled, he reviled not again, but was led like a sheep un<g ref="char:EOLhyphen"/>to the slaughter, and opened not his mouth.</hi> As Christ prayed for them that crucified him: so did our Soveraign pour out many devout prayers for his Enemies,<note place="margin">He prayed for his Enemies.</note> which might serve to melt their hearts, if they were not harder then <hi>Adamant.</hi> As Christ wept over <hi>Jerusalem</hi> so did our Soveraign weep over his three Kingdoms; being more sorry for the miseries that are to come upon them, then for all that had hapned unto himself. As women, beholding Christs passion, <hi>wept:</hi>
+               <note place="margin">
+                  <p>His Spectators wept to see him on the Scaffold.</p>
+                  <p>He died for the Church and his peo<g ref="char:EOLhyphen"/>ples liberties.</p>
+               </note> so many women, beholding their <hi>Soveraign</hi> on a Scaffold, <hi>wept bitterly;</hi> unto whom he might have said (as our <hi>Saviour</hi> said unto the other, <hi>Weep not for me, ye Daughters of Jerusalem, but weep for your selves.</hi>
+            </p>
+            <q>
+               <p>Christ gave himself for the Church, he died for the people: so our Soveraign in another sense, gave himself for the Church, and died for his people; for he might have saved his life, if he would have consented to destroy the Church, and inslave his peo<g ref="char:EOLhyphen"/>ple: so that (as he said on the Scaffold) he was the Martyr of the people,<note place="margin">The Martyr of the People.</note> Martyred by them, and for them. When our Saviour suffered, there were terrible signs and wonders, and darknesse over all the Land: so du<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng the time of our Soveraigns Mar<g ref="char:EOLhyphen"/>tyrdom, there were strange signs seen in the sky, in divers places of the Kingdom; and it was thought very prodigious,<note place="margin">Signs and Wonders.</note> that when he suffered, the Ducks forsook their Pond at Saint <hi>Jameses,</hi> and came as far as <hi>Whitehall,</hi> fluttering about the Scaffold: So that he might have said unto his bloudy Murderers, <hi>Ask the Beasts, and they will tell thee;</hi>
+                  <note place="margin">Job 12.7.</note>
+                  <hi>and the Fowls of the Heaven, and they will instruct thee,</hi> what an unnatu<g ref="char:EOLhyphen"/>rall mur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her ye are now committing. When our Saviour suffered, the Centurion, beholding his passion, was convinced that he was the Son of God, and feared greatly: so one of the Centurions who guarded our Soveraign,<note place="margin">Collonel Tomliason.</note> beholding his most Christi<g ref="char:EOLhyphen"/>an, Pious and Magnanimous carr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>age, was convinced, and is to this day stricken with great fear, horror and astonishment.</p>
+               <p>Thus from the Throne to the Block, have his cruel, traiterous and bloud-thirsty Enemies brought the most Virtuous, Religious and Pious Prince in the Christian World.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
